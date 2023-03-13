@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.4.0](https://www.github.com/nodejs/node-gyp/compare/v9.3.1...v9.4.0) (2023-03-13)
+
+
+### Features
+
+* Upgrade Python linting from flake8 to ruff ([#2815](https://www.github.com/nodejs/node-gyp/issues/2815)) ([fc0ddc6](https://www.github.com/nodejs/node-gyp/commit/fc0ddc6523c62b10e5ca1257500b3ceac01450a7))
+
 ### [9.3.1](https://www.github.com/nodejs/node-gyp/compare/v9.3.0...v9.3.1) (2022-12-16)
 
 
